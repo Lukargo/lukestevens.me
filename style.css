@@ -21,10 +21,10 @@
 	position: absolute;
 	left: auto;
 	right: auto;
-	font-size: 2em;
+	font-size: 30;
 	color: rgba(255,255,255,1.0);
 	margin-left: 2%;
-	margin-bottom: 50px;
+	margin-top: -2px;
 	font-family: 'Oswald', sans-serif;
 }
 
