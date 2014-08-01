@@ -19,13 +19,12 @@
 
 #text{
 	position: absolute;
-	margin: auto;
 	left: auto;
 	right: auto;
-	font-size: 25;
+	font-size: 2em;
 	color: rgba(255,255,255,1.0);
 	margin-left: 2%;
-	margin-top: 1px;
+	margin-bottom: 50px;
 	font-family: 'Oswald', sans-serif;
 }
 
@@ -44,4 +43,9 @@
 	-webkit-filter: blur(2px);
 	-moz-filter: blur(2px);
 	filter: blur(2px);
+}
+
+#container
+{
+	height: 5%;
 }
